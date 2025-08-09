@@ -1,4 +1,4 @@
-# 🏥 Breast Cancer Detection Assistant
+# Breast Cancer Detection Assistant
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
@@ -14,13 +14,14 @@ The primary dataset for this project was sourced from The Cancer Imaging Archive
 
 ---
 
-## 🖼️ Application Preview
+## Application Preview
 
-![Application Screenshot](assets/app_screenshot.png)
+![Application Screenshot](assets/app_screenshot1.jpg)
+![Application Screenshot](assets/app_screenshot2.jpg)
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **State-of-the-Art Deep Learning Model**: A fine-tuned EfficientNet-B0 model for 3-class classification (Normal, Benign, Malignant).
 - **Interactive Web Interface**: A user-friendly and intuitive web application built with Streamlit for easy image upload and analysis.
@@ -29,7 +30,7 @@ The primary dataset for this project was sourced from The Cancer Imaging Archive
 
 ---
 
-## ⚙️ Project Evolution & Methodology
+## Project Evolution & Methodology
 
 This project was developed iteratively, with each version improving upon the last to address specific challenges.
 
@@ -54,7 +55,7 @@ This project was developed iteratively, with each version improving upon the las
 
 ---
 
-## 📊 Final Model Performance
+## Final Model Performance
 
 The final model demonstrates a strong ability to distinguish Normal and Malignant cases, which is crucial for a clinical support tool.
 
@@ -68,7 +69,7 @@ The confusion matrix highlights the model's excellent performance in identifying
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 
 /
@@ -95,7 +96,7 @@ The confusion matrix highlights the model's excellent performance in identifying
 
 ---
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 - Python 3.8+
@@ -104,8 +105,8 @@ The confusion matrix highlights the model's excellent performance in identifying
 ### Setup
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/PyTorch_Mammo_Analyzer.git](https://github.com/yourusername/PyTorch_Mammo_Analyzer.git)
-    cd PyTorch_Mammo_Analyzer
+    git clone [https://github.com/alborzbm/Breast-Cancer-Detection-Assistant.git](https://github.com/alborzbm/Breast-Cancer-Detection-Assistant.git)
+    cd Breast-Cancer-Detection-Assistant
     ```
 2.  **Install dependencies**
     ```bash
@@ -130,7 +131,7 @@ The confusion matrix highlights the model's excellent performance in identifying
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - This project was made possible by the public dataset provided by **The Cancer Imaging Archive (TCIA)**.
 - Special thanks to the creators of PyTorch and Streamlit for their powerful open-source tools.
